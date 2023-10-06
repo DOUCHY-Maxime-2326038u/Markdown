@@ -1,6 +1,9 @@
 # Bienvenue sur le Wiki VincentBG76 !
 [Wiki Vincent Fandom](https://vincentanal76.fandom.com/fr/wiki/Wiki_VincentAnal76)
 
+**_Tout d'abord, voici Vincent !_**
+------
+
 ![Vincent](IMG_4443.jpg)
 
 Ici est un lieu de communauté où les fan de Vincent MELIAND peuvent s'instruire et se divertir sur sa vie, ses passions et ses fantasmes.
