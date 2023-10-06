@@ -44,4 +44,6 @@ en arme il aurait une arme à distance pour pouvoir éliminer ses cibles discrè
 
 Dans le jeu, Vincent arrivera tout le temps en retard et n'arrivera pas à se lever à l'heure. Un personnage pas ponctuel qui sera détester par les joueurs comme sa famille.
 
+**_Moi devant mon ordi qui insulte Vincent d'humain détestable :_**
+------
 ![moi](mecmuscledevantordi.jpg)
