@@ -43,3 +43,5 @@ La classe de Vincent serait assassin car il est rapide est fort, beaucoup d'atta
 en arme il aurait une arme à distance pour pouvoir éliminer ses cibles discrètement et un couteau pour garder sa vitesse d'attaque. Pas besoin d'une grosse arme vu qu'il n'a pas beaucoup de défense.
 
 Dans le jeu, Vincent arrivera tout le temps en retard et n'arrivera pas à se lever à l'heure. Un personnage pas ponctuel qui sera détester par les joueurs comme sa famille.
+
+![moi](mecmusclerdevantordi.jpg)
