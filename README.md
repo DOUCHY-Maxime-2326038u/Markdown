@@ -1,7 +1,7 @@
 # Bienvenue sur le Wiki VincentBG76 !
 [Wiki Vincent Fandom](https://vincentanal76.fandom.com/fr/wiki/Wiki_VincentAnal76)
 
-[Vincent](IMG_4443.jpg)
+![Vincent](IMG_4443.jpg)
 
 Ici est un lieu de communauté où les fan de Vincent MELIAND peuvent s'instruire et se divertir sur sa vie, ses passions et ses fantasmes.
 
@@ -14,14 +14,12 @@ comme dit plus tôt, Vincent est né à Rouen le 20 Avril 2005. un papa Cameroun
 ### Competence 1 - GROS MUSCLE :
 
 En plus d'être **énormément beau**, Vincent est aussi **très musclé**, très assidu sur les séances de sport avec Simon (non mais il fait de son mieux).
-
 Il vient **en courant** le matin et même avec ça il arrive toujours à être **en retard** 💪. (il dort avec des **bouchons d'oreille** en même temps... plus gros muscle que son cerveau).
-
 
 ### Competence 2 - Bonhomme :
 
 Gros muscle et grosse mentalité de mâle alpha, en effet, il joue à CS-GO toute la journée cumulant pas moins de 2200 heures de jeu ce qui reviens à jouer près de 92 jours, jours et nuits sans s'arrêter. Tout ça pour insulter tout le lobby et se prendre la tête avec des Russes. 
-
+***
 Si Vincent était un personnage d'un jeu vidéo, il serait sûrement le personnages secondaires du héros dû au fait qu'il n'est pas très intéressant (pas de passions) Je me suis imaginais ses statistiques et sont caractère, armes, ect...
 
 # Voici Vincent le pnj
