@@ -1,6 +1,8 @@
 # Bienvenue sur le Wiki VincentBG76 !
 [Wiki Vincent Fandom](https://vincentanal76.fandom.com/fr/wiki/Wiki_VincentAnal76)
 
+[Vincent]
+
 Ici est un lieu de communauté où les fan de Vincent MELIAND peuvent s'instruire et se divertir sur sa vie, ses passions et ses fantasmes.
 
 Fascinent hasard, lorsque cette page fut créé, l'ajout du numéro 76 fut inséré pour faire "rigoler la galerie" comme disent les jeunes. C'est avec l'étonnement des plus total que lorsque je regarda où le 76 se situait que j'appris que **Vincent en était originaire !**. Le hasard fait bien les choses, moi fan de Vincent depuis que je le connais, **j'ai réussis à trouver le département où il est né** (Plus particulièrement Rouen, ville du 76).
@@ -28,12 +30,12 @@ Bien que dans la vrai vie Vincent se comporte comme un pnj, ici on s'intéresse 
 
 **Statistiques de Vincent :**
 
-    Force    ⭐️⭐️⭐️⭐️⭐️
-    Rapidité ⭐️⭐️⭐️⭐️★
-    Magie    ⭐️★★★★
-    Vision   ⭐️⭐️⭐️★★
-    Defense  ⭐️⭐️★★★
-    Attaque  ⭐️⭐️⭐️⭐️★
+    Force    ★★★★★
+    Rapidité ★★★★✰
+    Magie    ★✰✰✰✰
+    Vision   ★★★✰✰
+    Defense  ★★✰✰✰
+    Attaque  ★★★★✰
 
 La classe de Vincent serait assassin car il est rapide est fort, beaucoup d'attaque pour éliminer sa cible le plus rapidement possible en évitent de devoir défendre. Il ne pourrait donc pas être mage car il n'a pas de puissance magique ni Chevalier car il faut pouvoir se défendre correctement.
 
